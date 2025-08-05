@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I am Agustina <img src="https://media.tenor.com/ftqs42Yna-oAAAAi/mochi-mochi-hello-white-mochi-mochi.gif" width="60px"/></h1>
+<h1 align="center">Hi, I'm Agustina <img src="https://media.tenor.com/ftqs42Yna-oAAAAi/mochi-mochi-hello-white-mochi-mochi.gif" width="60px"/></h1>
 
 ![](https://komarev.com/ghpvc/?username=agusdelosantos0107&color=ff69b4&label=🍨_Nice_To_Meet_U!_You+are+my+visitor+No.)
 
@@ -6,7 +6,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I'm Agustina, I have a degree in Visual Communication Design. I have always been interested in the world of art, illustration, crafts, creativity.
+I'm <b>Agustina</b>, I have a degree in Visual Communication Design. I've always been interested in the world of art, illustration, crafts, creativity.
 I personally believe that every project is an opportunity to design pieces that generate a connection with the public, merging creativity and strategies to develop effective graphic solutions.
 
 ## Skills
