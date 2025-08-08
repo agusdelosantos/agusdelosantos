@@ -9,6 +9,8 @@
 I'm <b>Agustina</b>, I have a degree in Visual Communication Design. I've always been interested in the world of art, illustration, crafts, creativity.
 I personally believe that every project is an opportunity to design pieces that generate a connection with the public, merging creativity and strategies to develop effective graphic solutions.
 
+<div align=center>
+  
 ## Skills
 
 <h4> Languages </h4>
@@ -22,13 +24,14 @@ I personally believe that every project is an opportunity to design pieces that 
 </span>
 
 
-<h4> Other Tools and Technologies </h4>
+<h4> Design and Organization </h4>
 <span>
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+  
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
   <img src="https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white">
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 
 
   ## Social Media
@@ -45,3 +48,5 @@ I personally believe that every project is an opportunity to design pieces that 
   <a href="https://cl.pinterest.com/janedoe2208/_profile/" >
     <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest">
   </a>
+
+</div>
