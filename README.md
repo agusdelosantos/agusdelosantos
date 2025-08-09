@@ -2,12 +2,25 @@
 
 ![](https://komarev.com/ghpvc/?username=agusdelosantos0107&color=ff69b4&label=🍨_Nice_To_Meet_U!_You+are+my+visitor+No.)
 
-<img align="right" width=300px alt="Gif" src="https://media.tenor.com/LLlWGmk7964AAAAM/anime-lofi.gif" />
+<img align="right" width=300px alt="Gif" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazNvYjk4ZGh6aXl6bmJmNjV0ZXlucnV4NzU0cmZibzZmZGJlNXJxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/My4AdWbJYLiDXzxm2E/giphy.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://media.tenor.com/cofRHcGGOfoAAAAm/shy-cute.webp" width="30px">&nbsp;***About me***
 
 I'm <b>Agustina</b>, I have a degree in Visual Communication Design. I've always been interested in the world of art, illustration, crafts, creativity.
 I personally believe that every project is an opportunity to design pieces that generate a connection with the public, merging creativity and strategies to develop effective graphic solutions.
+
+<img src="https://media.tenor.com/4IgTeDd8hpkAAAAi/hii.gif" width="30px">&nbsp;***Get to know me a little bit***
+<ul>
+  <li>🎨 <strong>Drawing</strong> — I love creating art and expressing myself visually.</li>
+  <li>📚 <strong>Reading</strong> — Some of my favorite series are:<br/>
+    <em>Throne of Glass</em> (Sarah J. Maas), <em>A Court of Thorns and Roses</em> (Sarah J. Maas), <em>Mistborn</em> (Brandon Sanderson), <em>The Cruel Prince</em> (Holly Black), <em>Things We Never Got Over</em> (Lucy Score).
+  </li>
+  <li>🎧 <strong>Listening to Music</strong> — I enjoy a variety of artists like Linkin Park, Bring Me the Horizon, Ed Sheeran, Sabrina Carpenter, Arctic Monkeys, and Chase Atlantic.</li>
+  <li>🎮 <strong>Playing Video Games</strong> — Some of my favorites include <em>League of Legends</em>, <em>The Witcher 3</em>, <em>Subnautica</em>, and <em>Kena: The Bridge of Spirits</em>.</li>
+  <li>🍿 <strong>Watching Anime</strong> — My faves are <em>The Apothecary Diaries</em>, <em>Shingeki no Kyojin</em>, <em>Sousou no Frieren</em>, and <em>Made in Abyss</em>.</li>
+</ul>
+
+<br>
 
 <div align=center>
   
@@ -33,6 +46,7 @@ I personally believe that every project is an opportunity to design pieces that 
   <img src="https://img.shields.io/badge/figma-%23F68765?style=for-the-badge&logo=figma&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/notion-%23B8B8B8?style=for-the-badge&logo=notion&logoColor=000000">
   <img src="https://img.shields.io/badge/procreate-%23A53860?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
 
 <h4> Soft Skills </h4>
 <span>
